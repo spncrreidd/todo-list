@@ -8,9 +8,9 @@ A simple to-do list web app built with HTML, CSS, and JavaScript. Saves tasks us
 - Saves tasks
 
 ## Demo
-Live Demo on Netlify
+- Live Demo on Netlify
 https://todo-list-spncr.netlify.app
-Repository on GitHub
+- Repository on GitHub
 https://github.com/spnccrreidd/todo-list 
 
 ## Tech Stack
